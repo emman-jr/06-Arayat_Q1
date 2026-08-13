@@ -1,4 +1,4 @@
-# q1_sg2_a2.md
+# q1_sg2_a1.md
 | Section | C# - Name | Date |
 | ------- | ------- | ------- |
 | 9 - Arayat | #06 - Emmanuel V. Gusad Jr. | 08/13 |
