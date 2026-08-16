@@ -98,7 +98,7 @@ Checklist to guide your answer:
 |PseudoCode 1|PseudoCode 2|
 |------|------|
 |✓ Is the structure straightforward?|__ Is the structure straightforward?|
-|✓ Would adding new steps break the code easily?|__ Would adding new steps break the code easily?|
+|__ Would adding new steps break the code easily?|✓ Would adding new steps break the code easily?|
 |✓ Is there less chance of errors when updating?|__ Is there less chance of errors when updating?|
 
 4. Testability
